@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SistemaEstoque
+namespace SistemaEstoque.Sistema
 {
-    public partial class MdiSistema : Form
+    public partial class CAD_Cliente : Form
     {
-        public MdiSistema()
+        public CAD_Cliente()
         {
             InitializeComponent();
         }
