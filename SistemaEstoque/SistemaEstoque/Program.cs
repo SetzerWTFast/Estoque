@@ -16,7 +16,7 @@ namespace SistemaEstoque
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Mdi_Sistema());
+            Application.Run(new Sistema.Login());
         }
     }
 }

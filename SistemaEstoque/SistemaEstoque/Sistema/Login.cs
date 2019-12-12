@@ -16,5 +16,12 @@ namespace SistemaEstoque.Sistema
         {
             InitializeComponent();
         }
+
+        private void btnEntrar_Click(object sender, EventArgs e)
+        {
+            MdiSistema inicial = new MdiSistema();
+            inicial.Show();
+            this.Hide();
+        }
     }
 }

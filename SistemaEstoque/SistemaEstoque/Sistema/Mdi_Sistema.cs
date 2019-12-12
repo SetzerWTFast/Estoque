@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SistemaEstoque
 {
-    public partial class Mdi_Sistema : Form
+    public partial class MdiSistema : Form
     {
-        public Mdi_Sistema()
+        public MdiSistema()
         {
             InitializeComponent();
         }
